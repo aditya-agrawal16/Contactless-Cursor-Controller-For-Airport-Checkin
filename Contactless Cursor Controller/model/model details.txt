@@ -1,0 +1,13 @@
+Model details:
+
+Dlib facial landmark detector and predictor is made using the classic Histogram of Oriented
+Gradients (HOG) feature combined with a linear classifier.
+
+The facial landmarks detector was created by using dlib's implementation of the paper:
+https://www.semanticscholar.org/paper/One-millisecond-face-alignment-with-an-ensemble-of-Kazemi-Sullivan/d78b6a5b0dcaa81b1faea5fb0000045a62513567
+ 
+The facial landmark predictor was trained on 68 point iBUG 300-W dataset 300 faces in-the-wild
+https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
+
+Trained model file from:
+http://dlib.net/files
