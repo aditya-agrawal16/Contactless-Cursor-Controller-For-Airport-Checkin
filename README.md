@@ -21,7 +21,7 @@ Order of Execution is as follows:
 `cd..` <br/>
 `cd..` <br/>
 `cd face_recognition` <br/>
-`python mouse-cursor-control.py`
+`python mouse-control.py`
 5. Once you are done with the application, press 'Esc' to exit it.
 
 ## Airline Website
