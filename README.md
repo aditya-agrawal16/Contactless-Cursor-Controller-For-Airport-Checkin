@@ -11,16 +11,16 @@ This project allows you to control your mouse cursor with your facial movements,
 ## Execution
 Order of Execution is as follows:
 
-1. Follow these installation guides - [Numpy](https://pypi.org/project/numpy/), [OpenCV](https://medium.com/@akshaychandra21/f5f721f0d0b3), [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/install.html), [Dlib](https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/), [Imutils](https://github.com/jrosebr1/imutils) and install the right versions of the libraries (mentioned above).
+1. Follow these installation guides - [Numpy](https://pypi.org/project/numpy/), [OpenCV](https://medium.com/@akshaychandra21/f5f721f0d0b3), [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/install.html), [Dlib](https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/), [Imutils](https://github.com/jrosebr1/imutils) and install the right versions of the libraries (mentioned above).<br/>
 (Note: If you feel trouble in installing dlib, you can follow this tutorial: https://www.youtube.com/watch?v=xaDJ5xnc8dc&t=1s)
 2. Make sure you have the model downloaded. Read the README.txt file inside the model folder for the link. Keep the downloaded model in 'model' folder.
-3. To run the application, open Powershell and run the commands given below.
+3. To run the application, open Powershell and run the commands given below.<br/>
 (Commands shown below are for my system and I kept the folder on desktop and made virtual environment by following the video mentioned in step 1).
-4. `cd .\Desktop\facerecog\myvenvpy\scripts\`
-`.\activate`
-`cd..`
-`cd..`
-`cd face_recognition`
+4. `cd .\Desktop\facerecog\myvenvpy\scripts\` <br/>
+`.\activate` <br/>
+`cd..` <br/>
+`cd..` <br/>
+`cd face_recognition` <br/>
 `python mouse-cursor-control.py`
 5. Once you are done, press 'Esc' to exit the application.
 
