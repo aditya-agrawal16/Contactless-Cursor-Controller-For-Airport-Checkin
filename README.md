@@ -15,14 +15,14 @@ Order of Execution is as follows:
 (Note: If you feel trouble in installing dlib, you can follow this tutorial: https://www.youtube.com/watch?v=xaDJ5xnc8dc&t=1s)
 2. Make sure you have the model downloaded. Read the README.txt file inside the model folder for the link. Keep the downloaded model in 'model' folder.
 3. To run the application, open Powershell and run the commands given below.<br/>
-(Commands shown below are for my system and I kept the folder on desktop and made virtual environment by following the video mentioned in step 1).
+(Commands shown below are for my system. I kept the folder on desktop and made virtual environment by following the video mentioned in step 1).
 4. `cd .\Desktop\facerecog\myvenvpy\scripts\` <br/>
 `.\activate` <br/>
 `cd..` <br/>
 `cd..` <br/>
 `cd face_recognition` <br/>
 `python mouse-cursor-control.py`
-5. Once you are done, press 'Esc' to exit the application.
+5. Once you are done with the application, press 'Esc' to exit it.
 
 ## Airline Website
 1. Place the 'Airline Website' folder on your desktop.
